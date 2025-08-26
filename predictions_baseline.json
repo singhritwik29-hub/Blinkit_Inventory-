@@ -1,0 +1,3742 @@
+[
+  {
+    "location": "Delhi",
+    "sku_id": "SKU001",
+    "sku_name": "Amul Milk 1L",
+    "predictions": [
+      {
+        "date": "2023-01-02",
+        "predicted_orders": 450,
+        "projected_inventory": 50.0,
+        "stockout_risk": 0
+      },
+      {
+        "date": "2023-01-03",
+        "predicted_orders": 450,
+        "projected_inventory": -400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-04",
+        "predicted_orders": 450,
+        "projected_inventory": -850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-05",
+        "predicted_orders": 450,
+        "projected_inventory": -1300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-06",
+        "predicted_orders": 450,
+        "projected_inventory": -1750.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-07",
+        "predicted_orders": 450,
+        "projected_inventory": -2200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-08",
+        "predicted_orders": 450,
+        "projected_inventory": -2650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-09",
+        "predicted_orders": 450,
+        "projected_inventory": -3100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-10",
+        "predicted_orders": 450,
+        "projected_inventory": -3550.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-11",
+        "predicted_orders": 450,
+        "projected_inventory": -4000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-12",
+        "predicted_orders": 450,
+        "projected_inventory": -4450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-13",
+        "predicted_orders": 450,
+        "projected_inventory": -4900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-14",
+        "predicted_orders": 450,
+        "projected_inventory": -5350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-15",
+        "predicted_orders": 450,
+        "projected_inventory": -5800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-16",
+        "predicted_orders": 450,
+        "projected_inventory": -6250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-17",
+        "predicted_orders": 450,
+        "projected_inventory": -6700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-18",
+        "predicted_orders": 450,
+        "projected_inventory": -7150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-19",
+        "predicted_orders": 450,
+        "projected_inventory": -7600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-20",
+        "predicted_orders": 450,
+        "projected_inventory": -8050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-21",
+        "predicted_orders": 450,
+        "projected_inventory": -8500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-22",
+        "predicted_orders": 450,
+        "projected_inventory": -8950.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-23",
+        "predicted_orders": 450,
+        "projected_inventory": -9400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-24",
+        "predicted_orders": 450,
+        "projected_inventory": -9850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-25",
+        "predicted_orders": 450,
+        "projected_inventory": -10300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-26",
+        "predicted_orders": 450,
+        "projected_inventory": -10750.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-27",
+        "predicted_orders": 450,
+        "projected_inventory": -11200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-28",
+        "predicted_orders": 450,
+        "projected_inventory": -11650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-29",
+        "predicted_orders": 450,
+        "projected_inventory": -12100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-30",
+        "predicted_orders": 450,
+        "projected_inventory": -12550.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-31",
+        "predicted_orders": 450,
+        "projected_inventory": -13000.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU002",
+    "sku_name": "Fortune Oil 1L",
+    "predictions": [
+      {
+        "date": "2023-01-02",
+        "predicted_orders": 320,
+        "projected_inventory": -20.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-03",
+        "predicted_orders": 320,
+        "projected_inventory": -340.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-04",
+        "predicted_orders": 320,
+        "projected_inventory": -660.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-05",
+        "predicted_orders": 320,
+        "projected_inventory": -980.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-06",
+        "predicted_orders": 320,
+        "projected_inventory": -1300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-07",
+        "predicted_orders": 320,
+        "projected_inventory": -1620.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-08",
+        "predicted_orders": 320,
+        "projected_inventory": -1940.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-09",
+        "predicted_orders": 320,
+        "projected_inventory": -2260.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-10",
+        "predicted_orders": 320,
+        "projected_inventory": -2580.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-11",
+        "predicted_orders": 320,
+        "projected_inventory": -2900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-12",
+        "predicted_orders": 320,
+        "projected_inventory": -3220.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-13",
+        "predicted_orders": 320,
+        "projected_inventory": -3540.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-14",
+        "predicted_orders": 320,
+        "projected_inventory": -3860.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-15",
+        "predicted_orders": 320,
+        "projected_inventory": -4180.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-16",
+        "predicted_orders": 320,
+        "projected_inventory": -4500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-17",
+        "predicted_orders": 320,
+        "projected_inventory": -4820.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-18",
+        "predicted_orders": 320,
+        "projected_inventory": -5140.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-19",
+        "predicted_orders": 320,
+        "projected_inventory": -5460.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-20",
+        "predicted_orders": 320,
+        "projected_inventory": -5780.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-21",
+        "predicted_orders": 320,
+        "projected_inventory": -6100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-22",
+        "predicted_orders": 320,
+        "projected_inventory": -6420.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-23",
+        "predicted_orders": 320,
+        "projected_inventory": -6740.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-24",
+        "predicted_orders": 320,
+        "projected_inventory": -7060.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-25",
+        "predicted_orders": 320,
+        "projected_inventory": -7380.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-26",
+        "predicted_orders": 320,
+        "projected_inventory": -7700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-27",
+        "predicted_orders": 320,
+        "projected_inventory": -8020.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-28",
+        "predicted_orders": 320,
+        "projected_inventory": -8340.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-29",
+        "predicted_orders": 320,
+        "projected_inventory": -8660.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-30",
+        "predicted_orders": 320,
+        "projected_inventory": -8980.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-31",
+        "predicted_orders": 320,
+        "projected_inventory": -9300.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Bangalore",
+    "sku_id": "SKU003",
+    "sku_name": "Parle-G 250g",
+    "predictions": [
+      {
+        "date": "2023-01-02",
+        "predicted_orders": 600,
+        "projected_inventory": 200.0,
+        "stockout_risk": 0
+      },
+      {
+        "date": "2023-01-03",
+        "predicted_orders": 600,
+        "projected_inventory": -400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-04",
+        "predicted_orders": 600,
+        "projected_inventory": -1000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-05",
+        "predicted_orders": 600,
+        "projected_inventory": -1600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-06",
+        "predicted_orders": 600,
+        "projected_inventory": -2200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-07",
+        "predicted_orders": 600,
+        "projected_inventory": -2800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-08",
+        "predicted_orders": 600,
+        "projected_inventory": -3400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-09",
+        "predicted_orders": 600,
+        "projected_inventory": -4000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-10",
+        "predicted_orders": 600,
+        "projected_inventory": -4600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-11",
+        "predicted_orders": 600,
+        "projected_inventory": -5200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-12",
+        "predicted_orders": 600,
+        "projected_inventory": -5800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-13",
+        "predicted_orders": 600,
+        "projected_inventory": -6400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-14",
+        "predicted_orders": 600,
+        "projected_inventory": -7000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-15",
+        "predicted_orders": 600,
+        "projected_inventory": -7600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-16",
+        "predicted_orders": 600,
+        "projected_inventory": -8200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-17",
+        "predicted_orders": 600,
+        "projected_inventory": -8800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-18",
+        "predicted_orders": 600,
+        "projected_inventory": -9400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-19",
+        "predicted_orders": 600,
+        "projected_inventory": -10000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-20",
+        "predicted_orders": 600,
+        "projected_inventory": -10600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-21",
+        "predicted_orders": 600,
+        "projected_inventory": -11200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-22",
+        "predicted_orders": 600,
+        "projected_inventory": -11800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-23",
+        "predicted_orders": 600,
+        "projected_inventory": -12400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-24",
+        "predicted_orders": 600,
+        "projected_inventory": -13000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-25",
+        "predicted_orders": 600,
+        "projected_inventory": -13600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-26",
+        "predicted_orders": 600,
+        "projected_inventory": -14200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-27",
+        "predicted_orders": 600,
+        "projected_inventory": -14800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-28",
+        "predicted_orders": 600,
+        "projected_inventory": -15400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-29",
+        "predicted_orders": 600,
+        "projected_inventory": -16000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-30",
+        "predicted_orders": 600,
+        "projected_inventory": -16600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-31",
+        "predicted_orders": 600,
+        "projected_inventory": -17200.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Delhi",
+    "sku_id": "SKU004",
+    "sku_name": "Saffola Gold 1L",
+    "predictions": [
+      {
+        "date": "2023-01-15",
+        "predicted_orders": 260,
+        "projected_inventory": -60.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-16",
+        "predicted_orders": 260,
+        "projected_inventory": -320.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-17",
+        "predicted_orders": 260,
+        "projected_inventory": -580.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-18",
+        "predicted_orders": 260,
+        "projected_inventory": -840.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-19",
+        "predicted_orders": 260,
+        "projected_inventory": -1100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-20",
+        "predicted_orders": 260,
+        "projected_inventory": -1360.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-21",
+        "predicted_orders": 260,
+        "projected_inventory": -1620.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-22",
+        "predicted_orders": 260,
+        "projected_inventory": -1880.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-23",
+        "predicted_orders": 260,
+        "projected_inventory": -2140.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-24",
+        "predicted_orders": 260,
+        "projected_inventory": -2400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-25",
+        "predicted_orders": 260,
+        "projected_inventory": -2660.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-26",
+        "predicted_orders": 260,
+        "projected_inventory": -2920.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-27",
+        "predicted_orders": 260,
+        "projected_inventory": -3180.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-28",
+        "predicted_orders": 260,
+        "projected_inventory": -3440.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-29",
+        "predicted_orders": 260,
+        "projected_inventory": -3700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-30",
+        "predicted_orders": 260,
+        "projected_inventory": -3960.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-31",
+        "predicted_orders": 260,
+        "projected_inventory": -4220.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-01",
+        "predicted_orders": 260,
+        "projected_inventory": -4480.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-02",
+        "predicted_orders": 260,
+        "projected_inventory": -4740.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-03",
+        "predicted_orders": 260,
+        "projected_inventory": -5000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-04",
+        "predicted_orders": 260,
+        "projected_inventory": -5260.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-05",
+        "predicted_orders": 260,
+        "projected_inventory": -5520.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-06",
+        "predicted_orders": 260,
+        "projected_inventory": -5780.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-07",
+        "predicted_orders": 260,
+        "projected_inventory": -6040.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-08",
+        "predicted_orders": 260,
+        "projected_inventory": -6300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-09",
+        "predicted_orders": 260,
+        "projected_inventory": -6560.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-10",
+        "predicted_orders": 260,
+        "projected_inventory": -6820.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-11",
+        "predicted_orders": 260,
+        "projected_inventory": -7080.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-12",
+        "predicted_orders": 260,
+        "projected_inventory": -7340.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-13",
+        "predicted_orders": 260,
+        "projected_inventory": -7600.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU005",
+    "sku_name": "Pepsi 2L",
+    "predictions": [
+      {
+        "date": "2023-01-27",
+        "predicted_orders": 450,
+        "projected_inventory": -50.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-28",
+        "predicted_orders": 450,
+        "projected_inventory": -500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-29",
+        "predicted_orders": 450,
+        "projected_inventory": -950.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-30",
+        "predicted_orders": 450,
+        "projected_inventory": -1400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-01-31",
+        "predicted_orders": 450,
+        "projected_inventory": -1850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-01",
+        "predicted_orders": 450,
+        "projected_inventory": -2300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-02",
+        "predicted_orders": 450,
+        "projected_inventory": -2750.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-03",
+        "predicted_orders": 450,
+        "projected_inventory": -3200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-04",
+        "predicted_orders": 450,
+        "projected_inventory": -3650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-05",
+        "predicted_orders": 450,
+        "projected_inventory": -4100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-06",
+        "predicted_orders": 450,
+        "projected_inventory": -4550.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-07",
+        "predicted_orders": 450,
+        "projected_inventory": -5000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-08",
+        "predicted_orders": 450,
+        "projected_inventory": -5450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-09",
+        "predicted_orders": 450,
+        "projected_inventory": -5900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-10",
+        "predicted_orders": 450,
+        "projected_inventory": -6350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-11",
+        "predicted_orders": 450,
+        "projected_inventory": -6800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-12",
+        "predicted_orders": 450,
+        "projected_inventory": -7250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-13",
+        "predicted_orders": 450,
+        "projected_inventory": -7700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-14",
+        "predicted_orders": 450,
+        "projected_inventory": -8150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-15",
+        "predicted_orders": 450,
+        "projected_inventory": -8600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-16",
+        "predicted_orders": 450,
+        "projected_inventory": -9050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-17",
+        "predicted_orders": 450,
+        "projected_inventory": -9500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-18",
+        "predicted_orders": 450,
+        "projected_inventory": -9950.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-19",
+        "predicted_orders": 450,
+        "projected_inventory": -10400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-20",
+        "predicted_orders": 450,
+        "projected_inventory": -10850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-21",
+        "predicted_orders": 450,
+        "projected_inventory": -11300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-22",
+        "predicted_orders": 450,
+        "projected_inventory": -11750.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-23",
+        "predicted_orders": 450,
+        "projected_inventory": -12200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-24",
+        "predicted_orders": 450,
+        "projected_inventory": -12650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-25",
+        "predicted_orders": 450,
+        "projected_inventory": -13100.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Bangalore",
+    "sku_id": "SKU006",
+    "sku_name": "Cadbury Silk 150g",
+    "predictions": [
+      {
+        "date": "2023-02-15",
+        "predicted_orders": 200,
+        "projected_inventory": -50.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-16",
+        "predicted_orders": 200,
+        "projected_inventory": -250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-17",
+        "predicted_orders": 200,
+        "projected_inventory": -450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-18",
+        "predicted_orders": 200,
+        "projected_inventory": -650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-19",
+        "predicted_orders": 200,
+        "projected_inventory": -850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-20",
+        "predicted_orders": 200,
+        "projected_inventory": -1050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-21",
+        "predicted_orders": 200,
+        "projected_inventory": -1250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-22",
+        "predicted_orders": 200,
+        "projected_inventory": -1450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-23",
+        "predicted_orders": 200,
+        "projected_inventory": -1650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-24",
+        "predicted_orders": 200,
+        "projected_inventory": -1850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-25",
+        "predicted_orders": 200,
+        "projected_inventory": -2050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-26",
+        "predicted_orders": 200,
+        "projected_inventory": -2250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-27",
+        "predicted_orders": 200,
+        "projected_inventory": -2450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-02-28",
+        "predicted_orders": 200,
+        "projected_inventory": -2650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-01",
+        "predicted_orders": 200,
+        "projected_inventory": -2850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-02",
+        "predicted_orders": 200,
+        "projected_inventory": -3050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-03",
+        "predicted_orders": 200,
+        "projected_inventory": -3250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-04",
+        "predicted_orders": 200,
+        "projected_inventory": -3450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-05",
+        "predicted_orders": 200,
+        "projected_inventory": -3650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-06",
+        "predicted_orders": 200,
+        "projected_inventory": -3850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-07",
+        "predicted_orders": 200,
+        "projected_inventory": -4050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-08",
+        "predicted_orders": 200,
+        "projected_inventory": -4250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-09",
+        "predicted_orders": 200,
+        "projected_inventory": -4450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-10",
+        "predicted_orders": 200,
+        "projected_inventory": -4650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-11",
+        "predicted_orders": 200,
+        "projected_inventory": -4850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-12",
+        "predicted_orders": 200,
+        "projected_inventory": -5050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-13",
+        "predicted_orders": 200,
+        "projected_inventory": -5250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-14",
+        "predicted_orders": 200,
+        "projected_inventory": -5450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-15",
+        "predicted_orders": 200,
+        "projected_inventory": -5650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-16",
+        "predicted_orders": 200,
+        "projected_inventory": -5850.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Delhi",
+    "sku_id": "SKU007",
+    "sku_name": "Gulal Pack",
+    "predictions": [
+      {
+        "date": "2023-03-09",
+        "predicted_orders": 180,
+        "projected_inventory": -80.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-10",
+        "predicted_orders": 180,
+        "projected_inventory": -260.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-11",
+        "predicted_orders": 180,
+        "projected_inventory": -440.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-12",
+        "predicted_orders": 180,
+        "projected_inventory": -620.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-13",
+        "predicted_orders": 180,
+        "projected_inventory": -800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-14",
+        "predicted_orders": 180,
+        "projected_inventory": -980.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-15",
+        "predicted_orders": 180,
+        "projected_inventory": -1160.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-16",
+        "predicted_orders": 180,
+        "projected_inventory": -1340.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-17",
+        "predicted_orders": 180,
+        "projected_inventory": -1520.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-18",
+        "predicted_orders": 180,
+        "projected_inventory": -1700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-19",
+        "predicted_orders": 180,
+        "projected_inventory": -1880.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-20",
+        "predicted_orders": 180,
+        "projected_inventory": -2060.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-21",
+        "predicted_orders": 180,
+        "projected_inventory": -2240.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-22",
+        "predicted_orders": 180,
+        "projected_inventory": -2420.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-23",
+        "predicted_orders": 180,
+        "projected_inventory": -2600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-24",
+        "predicted_orders": 180,
+        "projected_inventory": -2780.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-25",
+        "predicted_orders": 180,
+        "projected_inventory": -2960.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-26",
+        "predicted_orders": 180,
+        "projected_inventory": -3140.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-27",
+        "predicted_orders": 180,
+        "projected_inventory": -3320.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-28",
+        "predicted_orders": 180,
+        "projected_inventory": -3500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-29",
+        "predicted_orders": 180,
+        "projected_inventory": -3680.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-30",
+        "predicted_orders": 180,
+        "projected_inventory": -3860.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-03-31",
+        "predicted_orders": 180,
+        "projected_inventory": -4040.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-01",
+        "predicted_orders": 180,
+        "projected_inventory": -4220.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-02",
+        "predicted_orders": 180,
+        "projected_inventory": -4400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-03",
+        "predicted_orders": 180,
+        "projected_inventory": -4580.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-04",
+        "predicted_orders": 180,
+        "projected_inventory": -4760.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-05",
+        "predicted_orders": 180,
+        "projected_inventory": -4940.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-06",
+        "predicted_orders": 180,
+        "projected_inventory": -5120.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-07",
+        "predicted_orders": 180,
+        "projected_inventory": -5300.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU008",
+    "sku_name": "Amul Butter 500g",
+    "predictions": [
+      {
+        "date": "2023-04-15",
+        "predicted_orders": 240,
+        "projected_inventory": 10.0,
+        "stockout_risk": 0
+      },
+      {
+        "date": "2023-04-16",
+        "predicted_orders": 240,
+        "projected_inventory": -230.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-17",
+        "predicted_orders": 240,
+        "projected_inventory": -470.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-18",
+        "predicted_orders": 240,
+        "projected_inventory": -710.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-19",
+        "predicted_orders": 240,
+        "projected_inventory": -950.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-20",
+        "predicted_orders": 240,
+        "projected_inventory": -1190.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-21",
+        "predicted_orders": 240,
+        "projected_inventory": -1430.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-22",
+        "predicted_orders": 240,
+        "projected_inventory": -1670.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-23",
+        "predicted_orders": 240,
+        "projected_inventory": -1910.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-24",
+        "predicted_orders": 240,
+        "projected_inventory": -2150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-25",
+        "predicted_orders": 240,
+        "projected_inventory": -2390.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-26",
+        "predicted_orders": 240,
+        "projected_inventory": -2630.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-27",
+        "predicted_orders": 240,
+        "projected_inventory": -2870.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-28",
+        "predicted_orders": 240,
+        "projected_inventory": -3110.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-29",
+        "predicted_orders": 240,
+        "projected_inventory": -3350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-30",
+        "predicted_orders": 240,
+        "projected_inventory": -3590.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-01",
+        "predicted_orders": 240,
+        "projected_inventory": -3830.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-02",
+        "predicted_orders": 240,
+        "projected_inventory": -4070.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-03",
+        "predicted_orders": 240,
+        "projected_inventory": -4310.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-04",
+        "predicted_orders": 240,
+        "projected_inventory": -4550.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-05",
+        "predicted_orders": 240,
+        "projected_inventory": -4790.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-06",
+        "predicted_orders": 240,
+        "projected_inventory": -5030.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-07",
+        "predicted_orders": 240,
+        "projected_inventory": -5270.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-08",
+        "predicted_orders": 240,
+        "projected_inventory": -5510.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-09",
+        "predicted_orders": 240,
+        "projected_inventory": -5750.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-10",
+        "predicted_orders": 240,
+        "projected_inventory": -5990.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-11",
+        "predicted_orders": 240,
+        "projected_inventory": -6230.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-12",
+        "predicted_orders": 240,
+        "projected_inventory": -6470.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-13",
+        "predicted_orders": 240,
+        "projected_inventory": -6710.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-14",
+        "predicted_orders": 240,
+        "projected_inventory": -6950.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Bangalore",
+    "sku_id": "SKU009",
+    "sku_name": "Dates 1kg",
+    "predictions": [
+      {
+        "date": "2023-04-23",
+        "predicted_orders": 220,
+        "projected_inventory": -40.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-24",
+        "predicted_orders": 220,
+        "projected_inventory": -260.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-25",
+        "predicted_orders": 220,
+        "projected_inventory": -480.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-26",
+        "predicted_orders": 220,
+        "projected_inventory": -700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-27",
+        "predicted_orders": 220,
+        "projected_inventory": -920.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-28",
+        "predicted_orders": 220,
+        "projected_inventory": -1140.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-29",
+        "predicted_orders": 220,
+        "projected_inventory": -1360.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-04-30",
+        "predicted_orders": 220,
+        "projected_inventory": -1580.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-01",
+        "predicted_orders": 220,
+        "projected_inventory": -1800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-02",
+        "predicted_orders": 220,
+        "projected_inventory": -2020.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-03",
+        "predicted_orders": 220,
+        "projected_inventory": -2240.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-04",
+        "predicted_orders": 220,
+        "projected_inventory": -2460.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-05",
+        "predicted_orders": 220,
+        "projected_inventory": -2680.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-06",
+        "predicted_orders": 220,
+        "projected_inventory": -2900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-07",
+        "predicted_orders": 220,
+        "projected_inventory": -3120.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-08",
+        "predicted_orders": 220,
+        "projected_inventory": -3340.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-09",
+        "predicted_orders": 220,
+        "projected_inventory": -3560.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-10",
+        "predicted_orders": 220,
+        "projected_inventory": -3780.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-11",
+        "predicted_orders": 220,
+        "projected_inventory": -4000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-12",
+        "predicted_orders": 220,
+        "projected_inventory": -4220.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-13",
+        "predicted_orders": 220,
+        "projected_inventory": -4440.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-14",
+        "predicted_orders": 220,
+        "projected_inventory": -4660.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-15",
+        "predicted_orders": 220,
+        "projected_inventory": -4880.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-16",
+        "predicted_orders": 220,
+        "projected_inventory": -5100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-17",
+        "predicted_orders": 220,
+        "projected_inventory": -5320.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-18",
+        "predicted_orders": 220,
+        "projected_inventory": -5540.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-19",
+        "predicted_orders": 220,
+        "projected_inventory": -5760.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-20",
+        "predicted_orders": 220,
+        "projected_inventory": -5980.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-21",
+        "predicted_orders": 220,
+        "projected_inventory": -6200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-05-22",
+        "predicted_orders": 220,
+        "projected_inventory": -6420.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Delhi",
+    "sku_id": "SKU010",
+    "sku_name": "Tata Tea 1kg",
+    "predictions": [
+      {
+        "date": "2023-08-16",
+        "predicted_orders": 360,
+        "projected_inventory": -10.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-17",
+        "predicted_orders": 360,
+        "projected_inventory": -370.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-18",
+        "predicted_orders": 360,
+        "projected_inventory": -730.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-19",
+        "predicted_orders": 360,
+        "projected_inventory": -1090.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-20",
+        "predicted_orders": 360,
+        "projected_inventory": -1450.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-21",
+        "predicted_orders": 360,
+        "projected_inventory": -1810.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-22",
+        "predicted_orders": 360,
+        "projected_inventory": -2170.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-23",
+        "predicted_orders": 360,
+        "projected_inventory": -2530.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-24",
+        "predicted_orders": 360,
+        "projected_inventory": -2890.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-25",
+        "predicted_orders": 360,
+        "projected_inventory": -3250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-26",
+        "predicted_orders": 360,
+        "projected_inventory": -3610.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-27",
+        "predicted_orders": 360,
+        "projected_inventory": -3970.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-28",
+        "predicted_orders": 360,
+        "projected_inventory": -4330.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-29",
+        "predicted_orders": 360,
+        "projected_inventory": -4690.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-30",
+        "predicted_orders": 360,
+        "projected_inventory": -5050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-08-31",
+        "predicted_orders": 360,
+        "projected_inventory": -5410.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-01",
+        "predicted_orders": 360,
+        "projected_inventory": -5770.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-02",
+        "predicted_orders": 360,
+        "projected_inventory": -6130.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-03",
+        "predicted_orders": 360,
+        "projected_inventory": -6490.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-04",
+        "predicted_orders": 360,
+        "projected_inventory": -6850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-05",
+        "predicted_orders": 360,
+        "projected_inventory": -7210.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-06",
+        "predicted_orders": 360,
+        "projected_inventory": -7570.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-07",
+        "predicted_orders": 360,
+        "projected_inventory": -7930.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-08",
+        "predicted_orders": 360,
+        "projected_inventory": -8290.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-09",
+        "predicted_orders": 360,
+        "projected_inventory": -8650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-10",
+        "predicted_orders": 360,
+        "projected_inventory": -9010.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-11",
+        "predicted_orders": 360,
+        "projected_inventory": -9370.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-12",
+        "predicted_orders": 360,
+        "projected_inventory": -9730.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-13",
+        "predicted_orders": 360,
+        "projected_inventory": -10090.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-14",
+        "predicted_orders": 360,
+        "projected_inventory": -10450.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU011",
+    "sku_name": "Modak 500g",
+    "predictions": [
+      {
+        "date": "2023-09-20",
+        "predicted_orders": 180,
+        "projected_inventory": -60.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-21",
+        "predicted_orders": 180,
+        "projected_inventory": -240.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-22",
+        "predicted_orders": 180,
+        "projected_inventory": -420.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-23",
+        "predicted_orders": 180,
+        "projected_inventory": -600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-24",
+        "predicted_orders": 180,
+        "projected_inventory": -780.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-25",
+        "predicted_orders": 180,
+        "projected_inventory": -960.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-26",
+        "predicted_orders": 180,
+        "projected_inventory": -1140.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-27",
+        "predicted_orders": 180,
+        "projected_inventory": -1320.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-28",
+        "predicted_orders": 180,
+        "projected_inventory": -1500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-29",
+        "predicted_orders": 180,
+        "projected_inventory": -1680.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-09-30",
+        "predicted_orders": 180,
+        "projected_inventory": -1860.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-01",
+        "predicted_orders": 180,
+        "projected_inventory": -2040.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-02",
+        "predicted_orders": 180,
+        "projected_inventory": -2220.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-03",
+        "predicted_orders": 180,
+        "projected_inventory": -2400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-04",
+        "predicted_orders": 180,
+        "projected_inventory": -2580.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-05",
+        "predicted_orders": 180,
+        "projected_inventory": -2760.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-06",
+        "predicted_orders": 180,
+        "projected_inventory": -2940.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-07",
+        "predicted_orders": 180,
+        "projected_inventory": -3120.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-08",
+        "predicted_orders": 180,
+        "projected_inventory": -3300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-09",
+        "predicted_orders": 180,
+        "projected_inventory": -3480.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-10",
+        "predicted_orders": 180,
+        "projected_inventory": -3660.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-11",
+        "predicted_orders": 180,
+        "projected_inventory": -3840.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-12",
+        "predicted_orders": 180,
+        "projected_inventory": -4020.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-13",
+        "predicted_orders": 180,
+        "projected_inventory": -4200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-14",
+        "predicted_orders": 180,
+        "projected_inventory": -4380.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-15",
+        "predicted_orders": 180,
+        "projected_inventory": -4560.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-16",
+        "predicted_orders": 180,
+        "projected_inventory": -4740.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-17",
+        "predicted_orders": 180,
+        "projected_inventory": -4920.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-18",
+        "predicted_orders": 180,
+        "projected_inventory": -5100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-19",
+        "predicted_orders": 180,
+        "projected_inventory": -5280.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Bangalore",
+    "sku_id": "SKU012",
+    "sku_name": "Soan Papdi 1kg",
+    "predictions": [
+      {
+        "date": "2023-10-25",
+        "predicted_orders": 400,
+        "projected_inventory": -200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-26",
+        "predicted_orders": 400,
+        "projected_inventory": -600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-27",
+        "predicted_orders": 400,
+        "projected_inventory": -1000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-28",
+        "predicted_orders": 400,
+        "projected_inventory": -1400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-29",
+        "predicted_orders": 400,
+        "projected_inventory": -1800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-30",
+        "predicted_orders": 400,
+        "projected_inventory": -2200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-10-31",
+        "predicted_orders": 400,
+        "projected_inventory": -2600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-01",
+        "predicted_orders": 400,
+        "projected_inventory": -3000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-02",
+        "predicted_orders": 400,
+        "projected_inventory": -3400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-03",
+        "predicted_orders": 400,
+        "projected_inventory": -3800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-04",
+        "predicted_orders": 400,
+        "projected_inventory": -4200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-05",
+        "predicted_orders": 400,
+        "projected_inventory": -4600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-06",
+        "predicted_orders": 400,
+        "projected_inventory": -5000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-07",
+        "predicted_orders": 400,
+        "projected_inventory": -5400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-08",
+        "predicted_orders": 400,
+        "projected_inventory": -5800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-09",
+        "predicted_orders": 400,
+        "projected_inventory": -6200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-10",
+        "predicted_orders": 400,
+        "projected_inventory": -6600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-11",
+        "predicted_orders": 400,
+        "projected_inventory": -7000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-12",
+        "predicted_orders": 400,
+        "projected_inventory": -7400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-13",
+        "predicted_orders": 400,
+        "projected_inventory": -7800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-14",
+        "predicted_orders": 400,
+        "projected_inventory": -8200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-15",
+        "predicted_orders": 400,
+        "projected_inventory": -8600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-16",
+        "predicted_orders": 400,
+        "projected_inventory": -9000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-17",
+        "predicted_orders": 400,
+        "projected_inventory": -9400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-18",
+        "predicted_orders": 400,
+        "projected_inventory": -9800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-19",
+        "predicted_orders": 400,
+        "projected_inventory": -10200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-20",
+        "predicted_orders": 400,
+        "projected_inventory": -10600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-21",
+        "predicted_orders": 400,
+        "projected_inventory": -11000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-22",
+        "predicted_orders": 400,
+        "projected_inventory": -11400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-23",
+        "predicted_orders": 400,
+        "projected_inventory": -11800.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Delhi",
+    "sku_id": "SKU013",
+    "sku_name": "Kaju Katli 500g",
+    "predictions": [
+      {
+        "date": "2023-11-13",
+        "predicted_orders": 250,
+        "projected_inventory": -100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-14",
+        "predicted_orders": 250,
+        "projected_inventory": -350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-15",
+        "predicted_orders": 250,
+        "projected_inventory": -600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-16",
+        "predicted_orders": 250,
+        "projected_inventory": -850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-17",
+        "predicted_orders": 250,
+        "projected_inventory": -1100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-18",
+        "predicted_orders": 250,
+        "projected_inventory": -1350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-19",
+        "predicted_orders": 250,
+        "projected_inventory": -1600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-20",
+        "predicted_orders": 250,
+        "projected_inventory": -1850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-21",
+        "predicted_orders": 250,
+        "projected_inventory": -2100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-22",
+        "predicted_orders": 250,
+        "projected_inventory": -2350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-23",
+        "predicted_orders": 250,
+        "projected_inventory": -2600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-24",
+        "predicted_orders": 250,
+        "projected_inventory": -2850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-25",
+        "predicted_orders": 250,
+        "projected_inventory": -3100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-26",
+        "predicted_orders": 250,
+        "projected_inventory": -3350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-27",
+        "predicted_orders": 250,
+        "projected_inventory": -3600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-28",
+        "predicted_orders": 250,
+        "projected_inventory": -3850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-29",
+        "predicted_orders": 250,
+        "projected_inventory": -4100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-11-30",
+        "predicted_orders": 250,
+        "projected_inventory": -4350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-01",
+        "predicted_orders": 250,
+        "projected_inventory": -4600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-02",
+        "predicted_orders": 250,
+        "projected_inventory": -4850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-03",
+        "predicted_orders": 250,
+        "projected_inventory": -5100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-04",
+        "predicted_orders": 250,
+        "projected_inventory": -5350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-05",
+        "predicted_orders": 250,
+        "projected_inventory": -5600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-06",
+        "predicted_orders": 250,
+        "projected_inventory": -5850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-07",
+        "predicted_orders": 250,
+        "projected_inventory": -6100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-08",
+        "predicted_orders": 250,
+        "projected_inventory": -6350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-09",
+        "predicted_orders": 250,
+        "projected_inventory": -6600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-10",
+        "predicted_orders": 250,
+        "projected_inventory": -6850.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-11",
+        "predicted_orders": 250,
+        "projected_inventory": -7100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-12",
+        "predicted_orders": 250,
+        "projected_inventory": -7350.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU014",
+    "sku_name": "Plum Cake 1kg",
+    "predictions": [
+      {
+        "date": "2023-12-26",
+        "predicted_orders": 200,
+        "projected_inventory": -100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-27",
+        "predicted_orders": 200,
+        "projected_inventory": -300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-28",
+        "predicted_orders": 200,
+        "projected_inventory": -500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-29",
+        "predicted_orders": 200,
+        "projected_inventory": -700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-30",
+        "predicted_orders": 200,
+        "projected_inventory": -900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2023-12-31",
+        "predicted_orders": 200,
+        "projected_inventory": -1100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-01",
+        "predicted_orders": 200,
+        "projected_inventory": -1300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-02",
+        "predicted_orders": 200,
+        "projected_inventory": -1500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-03",
+        "predicted_orders": 200,
+        "projected_inventory": -1700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-04",
+        "predicted_orders": 200,
+        "projected_inventory": -1900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-05",
+        "predicted_orders": 200,
+        "projected_inventory": -2100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-06",
+        "predicted_orders": 200,
+        "projected_inventory": -2300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-07",
+        "predicted_orders": 200,
+        "projected_inventory": -2500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-08",
+        "predicted_orders": 200,
+        "projected_inventory": -2700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-09",
+        "predicted_orders": 200,
+        "projected_inventory": -2900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-10",
+        "predicted_orders": 200,
+        "projected_inventory": -3100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-11",
+        "predicted_orders": 200,
+        "projected_inventory": -3300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-12",
+        "predicted_orders": 200,
+        "projected_inventory": -3500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-13",
+        "predicted_orders": 200,
+        "projected_inventory": -3700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-14",
+        "predicted_orders": 200,
+        "projected_inventory": -3900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-15",
+        "predicted_orders": 200,
+        "projected_inventory": -4100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-16",
+        "predicted_orders": 200,
+        "projected_inventory": -4300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-17",
+        "predicted_orders": 200,
+        "projected_inventory": -4500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-18",
+        "predicted_orders": 200,
+        "projected_inventory": -4700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-19",
+        "predicted_orders": 200,
+        "projected_inventory": -4900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-20",
+        "predicted_orders": 200,
+        "projected_inventory": -5100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-21",
+        "predicted_orders": 200,
+        "projected_inventory": -5300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-22",
+        "predicted_orders": 200,
+        "projected_inventory": -5500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-23",
+        "predicted_orders": 200,
+        "projected_inventory": -5700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-24",
+        "predicted_orders": 200,
+        "projected_inventory": -5900.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Bangalore",
+    "sku_id": "SKU015",
+    "sku_name": "Coca Cola 2L",
+    "predictions": [
+      {
+        "date": "2024-01-02",
+        "predicted_orders": 400,
+        "projected_inventory": -100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-03",
+        "predicted_orders": 400,
+        "projected_inventory": -500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-04",
+        "predicted_orders": 400,
+        "projected_inventory": -900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-05",
+        "predicted_orders": 400,
+        "projected_inventory": -1300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-06",
+        "predicted_orders": 400,
+        "projected_inventory": -1700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-07",
+        "predicted_orders": 400,
+        "projected_inventory": -2100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-08",
+        "predicted_orders": 400,
+        "projected_inventory": -2500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-09",
+        "predicted_orders": 400,
+        "projected_inventory": -2900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-10",
+        "predicted_orders": 400,
+        "projected_inventory": -3300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-11",
+        "predicted_orders": 400,
+        "projected_inventory": -3700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-12",
+        "predicted_orders": 400,
+        "projected_inventory": -4100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-13",
+        "predicted_orders": 400,
+        "projected_inventory": -4500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-14",
+        "predicted_orders": 400,
+        "projected_inventory": -4900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-15",
+        "predicted_orders": 400,
+        "projected_inventory": -5300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-16",
+        "predicted_orders": 400,
+        "projected_inventory": -5700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-17",
+        "predicted_orders": 400,
+        "projected_inventory": -6100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-18",
+        "predicted_orders": 400,
+        "projected_inventory": -6500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-19",
+        "predicted_orders": 400,
+        "projected_inventory": -6900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-20",
+        "predicted_orders": 400,
+        "projected_inventory": -7300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-21",
+        "predicted_orders": 400,
+        "projected_inventory": -7700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-22",
+        "predicted_orders": 400,
+        "projected_inventory": -8100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-23",
+        "predicted_orders": 400,
+        "projected_inventory": -8500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-24",
+        "predicted_orders": 400,
+        "projected_inventory": -8900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-25",
+        "predicted_orders": 400,
+        "projected_inventory": -9300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-26",
+        "predicted_orders": 400,
+        "projected_inventory": -9700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-27",
+        "predicted_orders": 400,
+        "projected_inventory": -10100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-28",
+        "predicted_orders": 400,
+        "projected_inventory": -10500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-29",
+        "predicted_orders": 400,
+        "projected_inventory": -10900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-30",
+        "predicted_orders": 400,
+        "projected_inventory": -11300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-01-31",
+        "predicted_orders": 400,
+        "projected_inventory": -11700.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Delhi",
+    "sku_id": "SKU016",
+    "sku_name": "Thandai 750ml",
+    "predictions": [
+      {
+        "date": "2024-03-26",
+        "predicted_orders": 180,
+        "projected_inventory": -60.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-03-27",
+        "predicted_orders": 180,
+        "projected_inventory": -240.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-03-28",
+        "predicted_orders": 180,
+        "projected_inventory": -420.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-03-29",
+        "predicted_orders": 180,
+        "projected_inventory": -600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-03-30",
+        "predicted_orders": 180,
+        "projected_inventory": -780.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-03-31",
+        "predicted_orders": 180,
+        "projected_inventory": -960.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-01",
+        "predicted_orders": 180,
+        "projected_inventory": -1140.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-02",
+        "predicted_orders": 180,
+        "projected_inventory": -1320.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-03",
+        "predicted_orders": 180,
+        "projected_inventory": -1500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-04",
+        "predicted_orders": 180,
+        "projected_inventory": -1680.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-05",
+        "predicted_orders": 180,
+        "projected_inventory": -1860.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-06",
+        "predicted_orders": 180,
+        "projected_inventory": -2040.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-07",
+        "predicted_orders": 180,
+        "projected_inventory": -2220.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-08",
+        "predicted_orders": 180,
+        "projected_inventory": -2400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-09",
+        "predicted_orders": 180,
+        "projected_inventory": -2580.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-10",
+        "predicted_orders": 180,
+        "projected_inventory": -2760.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-11",
+        "predicted_orders": 180,
+        "projected_inventory": -2940.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-12",
+        "predicted_orders": 180,
+        "projected_inventory": -3120.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-13",
+        "predicted_orders": 180,
+        "projected_inventory": -3300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-14",
+        "predicted_orders": 180,
+        "projected_inventory": -3480.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-15",
+        "predicted_orders": 180,
+        "projected_inventory": -3660.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-16",
+        "predicted_orders": 180,
+        "projected_inventory": -3840.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-17",
+        "predicted_orders": 180,
+        "projected_inventory": -4020.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-18",
+        "predicted_orders": 180,
+        "projected_inventory": -4200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-19",
+        "predicted_orders": 180,
+        "projected_inventory": -4380.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-20",
+        "predicted_orders": 180,
+        "projected_inventory": -4560.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-21",
+        "predicted_orders": 180,
+        "projected_inventory": -4740.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-22",
+        "predicted_orders": 180,
+        "projected_inventory": -4920.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-23",
+        "predicted_orders": 180,
+        "projected_inventory": -5100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-24",
+        "predicted_orders": 180,
+        "projected_inventory": -5280.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU017",
+    "sku_name": "Seviyan 500g",
+    "predictions": [
+      {
+        "date": "2024-04-10",
+        "predicted_orders": 220,
+        "projected_inventory": -70.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-11",
+        "predicted_orders": 220,
+        "projected_inventory": -290.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-12",
+        "predicted_orders": 220,
+        "projected_inventory": -510.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-13",
+        "predicted_orders": 220,
+        "projected_inventory": -730.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-14",
+        "predicted_orders": 220,
+        "projected_inventory": -950.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-15",
+        "predicted_orders": 220,
+        "projected_inventory": -1170.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-16",
+        "predicted_orders": 220,
+        "projected_inventory": -1390.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-17",
+        "predicted_orders": 220,
+        "projected_inventory": -1610.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-18",
+        "predicted_orders": 220,
+        "projected_inventory": -1830.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-19",
+        "predicted_orders": 220,
+        "projected_inventory": -2050.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-20",
+        "predicted_orders": 220,
+        "projected_inventory": -2270.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-21",
+        "predicted_orders": 220,
+        "projected_inventory": -2490.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-22",
+        "predicted_orders": 220,
+        "projected_inventory": -2710.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-23",
+        "predicted_orders": 220,
+        "projected_inventory": -2930.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-24",
+        "predicted_orders": 220,
+        "projected_inventory": -3150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-25",
+        "predicted_orders": 220,
+        "projected_inventory": -3370.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-26",
+        "predicted_orders": 220,
+        "projected_inventory": -3590.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-27",
+        "predicted_orders": 220,
+        "projected_inventory": -3810.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-28",
+        "predicted_orders": 220,
+        "projected_inventory": -4030.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-29",
+        "predicted_orders": 220,
+        "projected_inventory": -4250.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-04-30",
+        "predicted_orders": 220,
+        "projected_inventory": -4470.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-01",
+        "predicted_orders": 220,
+        "projected_inventory": -4690.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-02",
+        "predicted_orders": 220,
+        "projected_inventory": -4910.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-03",
+        "predicted_orders": 220,
+        "projected_inventory": -5130.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-04",
+        "predicted_orders": 220,
+        "projected_inventory": -5350.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-05",
+        "predicted_orders": 220,
+        "projected_inventory": -5570.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-06",
+        "predicted_orders": 220,
+        "projected_inventory": -5790.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-07",
+        "predicted_orders": 220,
+        "projected_inventory": -6010.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-08",
+        "predicted_orders": 220,
+        "projected_inventory": -6230.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-05-09",
+        "predicted_orders": 220,
+        "projected_inventory": -6450.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Bangalore",
+    "sku_id": "SKU018",
+    "sku_name": "Flag Pack",
+    "predictions": [
+      {
+        "date": "2024-08-16",
+        "predicted_orders": 800,
+        "projected_inventory": -300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-17",
+        "predicted_orders": 800,
+        "projected_inventory": -1100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-18",
+        "predicted_orders": 800,
+        "projected_inventory": -1900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-19",
+        "predicted_orders": 800,
+        "projected_inventory": -2700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-20",
+        "predicted_orders": 800,
+        "projected_inventory": -3500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-21",
+        "predicted_orders": 800,
+        "projected_inventory": -4300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-22",
+        "predicted_orders": 800,
+        "projected_inventory": -5100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-23",
+        "predicted_orders": 800,
+        "projected_inventory": -5900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-24",
+        "predicted_orders": 800,
+        "projected_inventory": -6700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-25",
+        "predicted_orders": 800,
+        "projected_inventory": -7500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-26",
+        "predicted_orders": 800,
+        "projected_inventory": -8300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-27",
+        "predicted_orders": 800,
+        "projected_inventory": -9100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-28",
+        "predicted_orders": 800,
+        "projected_inventory": -9900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-29",
+        "predicted_orders": 800,
+        "projected_inventory": -10700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-30",
+        "predicted_orders": 800,
+        "projected_inventory": -11500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-08-31",
+        "predicted_orders": 800,
+        "projected_inventory": -12300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-01",
+        "predicted_orders": 800,
+        "projected_inventory": -13100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-02",
+        "predicted_orders": 800,
+        "projected_inventory": -13900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-03",
+        "predicted_orders": 800,
+        "projected_inventory": -14700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-04",
+        "predicted_orders": 800,
+        "projected_inventory": -15500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-05",
+        "predicted_orders": 800,
+        "projected_inventory": -16300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-06",
+        "predicted_orders": 800,
+        "projected_inventory": -17100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-07",
+        "predicted_orders": 800,
+        "projected_inventory": -17900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-08",
+        "predicted_orders": 800,
+        "projected_inventory": -18700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-09",
+        "predicted_orders": 800,
+        "projected_inventory": -19500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-10",
+        "predicted_orders": 800,
+        "projected_inventory": -20300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-11",
+        "predicted_orders": 800,
+        "projected_inventory": -21100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-12",
+        "predicted_orders": 800,
+        "projected_inventory": -21900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-13",
+        "predicted_orders": 800,
+        "projected_inventory": -22700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-09-14",
+        "predicted_orders": 800,
+        "projected_inventory": -23500.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Delhi",
+    "sku_id": "SKU019",
+    "sku_name": "Chocolates Combo",
+    "predictions": [
+      {
+        "date": "2024-11-01",
+        "predicted_orders": 250,
+        "projected_inventory": -150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-02",
+        "predicted_orders": 250,
+        "projected_inventory": -400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-03",
+        "predicted_orders": 250,
+        "projected_inventory": -650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-04",
+        "predicted_orders": 250,
+        "projected_inventory": -900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-05",
+        "predicted_orders": 250,
+        "projected_inventory": -1150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-06",
+        "predicted_orders": 250,
+        "projected_inventory": -1400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-07",
+        "predicted_orders": 250,
+        "projected_inventory": -1650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-08",
+        "predicted_orders": 250,
+        "projected_inventory": -1900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-09",
+        "predicted_orders": 250,
+        "projected_inventory": -2150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-10",
+        "predicted_orders": 250,
+        "projected_inventory": -2400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-11",
+        "predicted_orders": 250,
+        "projected_inventory": -2650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-12",
+        "predicted_orders": 250,
+        "projected_inventory": -2900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-13",
+        "predicted_orders": 250,
+        "projected_inventory": -3150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-14",
+        "predicted_orders": 250,
+        "projected_inventory": -3400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-15",
+        "predicted_orders": 250,
+        "projected_inventory": -3650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-16",
+        "predicted_orders": 250,
+        "projected_inventory": -3900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-17",
+        "predicted_orders": 250,
+        "projected_inventory": -4150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-18",
+        "predicted_orders": 250,
+        "projected_inventory": -4400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-19",
+        "predicted_orders": 250,
+        "projected_inventory": -4650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-20",
+        "predicted_orders": 250,
+        "projected_inventory": -4900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-21",
+        "predicted_orders": 250,
+        "projected_inventory": -5150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-22",
+        "predicted_orders": 250,
+        "projected_inventory": -5400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-23",
+        "predicted_orders": 250,
+        "projected_inventory": -5650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-24",
+        "predicted_orders": 250,
+        "projected_inventory": -5900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-25",
+        "predicted_orders": 250,
+        "projected_inventory": -6150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-26",
+        "predicted_orders": 250,
+        "projected_inventory": -6400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-27",
+        "predicted_orders": 250,
+        "projected_inventory": -6650.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-28",
+        "predicted_orders": 250,
+        "projected_inventory": -6900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-29",
+        "predicted_orders": 250,
+        "projected_inventory": -7150.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-30",
+        "predicted_orders": 250,
+        "projected_inventory": -7400.0,
+        "stockout_risk": 1
+      }
+    ]
+  },
+  {
+    "location": "Mumbai",
+    "sku_id": "SKU020",
+    "sku_name": "Firecrackers Pack",
+    "predictions": [
+      {
+        "date": "2024-11-02",
+        "predicted_orders": 700,
+        "projected_inventory": -400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-03",
+        "predicted_orders": 700,
+        "projected_inventory": -1100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-04",
+        "predicted_orders": 700,
+        "projected_inventory": -1800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-05",
+        "predicted_orders": 700,
+        "projected_inventory": -2500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-06",
+        "predicted_orders": 700,
+        "projected_inventory": -3200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-07",
+        "predicted_orders": 700,
+        "projected_inventory": -3900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-08",
+        "predicted_orders": 700,
+        "projected_inventory": -4600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-09",
+        "predicted_orders": 700,
+        "projected_inventory": -5300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-10",
+        "predicted_orders": 700,
+        "projected_inventory": -6000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-11",
+        "predicted_orders": 700,
+        "projected_inventory": -6700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-12",
+        "predicted_orders": 700,
+        "projected_inventory": -7400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-13",
+        "predicted_orders": 700,
+        "projected_inventory": -8100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-14",
+        "predicted_orders": 700,
+        "projected_inventory": -8800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-15",
+        "predicted_orders": 700,
+        "projected_inventory": -9500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-16",
+        "predicted_orders": 700,
+        "projected_inventory": -10200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-17",
+        "predicted_orders": 700,
+        "projected_inventory": -10900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-18",
+        "predicted_orders": 700,
+        "projected_inventory": -11600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-19",
+        "predicted_orders": 700,
+        "projected_inventory": -12300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-20",
+        "predicted_orders": 700,
+        "projected_inventory": -13000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-21",
+        "predicted_orders": 700,
+        "projected_inventory": -13700.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-22",
+        "predicted_orders": 700,
+        "projected_inventory": -14400.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-23",
+        "predicted_orders": 700,
+        "projected_inventory": -15100.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-24",
+        "predicted_orders": 700,
+        "projected_inventory": -15800.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-25",
+        "predicted_orders": 700,
+        "projected_inventory": -16500.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-26",
+        "predicted_orders": 700,
+        "projected_inventory": -17200.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-27",
+        "predicted_orders": 700,
+        "projected_inventory": -17900.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-28",
+        "predicted_orders": 700,
+        "projected_inventory": -18600.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-29",
+        "predicted_orders": 700,
+        "projected_inventory": -19300.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-11-30",
+        "predicted_orders": 700,
+        "projected_inventory": -20000.0,
+        "stockout_risk": 1
+      },
+      {
+        "date": "2024-12-01",
+        "predicted_orders": 700,
+        "projected_inventory": -20700.0,
+        "stockout_risk": 1
+      }
+    ]
+  }
+]
