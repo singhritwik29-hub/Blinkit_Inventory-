@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Blinkit Inventory Predictor</title>
+	<link rel="stylesheet" href="/styles.css" />
+	<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+	<header>
+		<h1>Blinkit Inventory Predictor</h1>
+		<p>Prophet/LSTM-ready dashboard using current baseline predictions</p>
+	</header>
+	<main>
+		<section class="controls">
+			<label>
+				City/SKU
+				<select id="groupSelect"></select>
+			</label>
+			<div class="actions">
+				<a class="button" href="/predictions.json" target="_blank">Download JSON</a>
+				<a class="button" href="/predictions.csv" target="_blank">Download CSV</a>
+				<button id="exportPng" class="button">Export Chart PNG</button>
+			</div>
+		</section>
+
+		<section class="summary">
+			<h2>Upcoming Stockout Risks</h2>
+			<table id="summaryTable">
+				<thead>
+					<tr>
+						<th>City</th>
+						<th>SKU</th>
+						<th>First Stockout Date</th>
+					</tr>
+				</thead>
+				<tbody></tbody>
+			</table>
+		</section>
+
+		<section class="chart">
+			<h2>Demand & Inventory Projection</h2>
+			<div id="chart" style="height: 460px;"></div>
+		</section>
+	</main>
+	<script src="/main.js"></script>
+</body>
+</html>
